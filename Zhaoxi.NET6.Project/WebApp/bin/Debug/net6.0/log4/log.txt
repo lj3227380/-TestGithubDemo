@@ -1,0 +1,22 @@
+2021-12-03 11:03:41,054 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5198
+2021-12-03 11:03:41,200 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-12-03 11:03:41,204 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-12-03 11:03:41,205 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\ZXWork\Richard-Public\2021\2021NET6\1112NET6\Zhaoxi.NET6.Project\WebApp\
+2021-12-03 11:03:44,688 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - WebApp.Controllers.FirstController  被构造。。。
+2021-12-03 11:03:44,712 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - Index 被执行。。。
+2021-12-03 11:07:04,021 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5198
+2021-12-03 11:07:04,100 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-12-03 11:07:04,106 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-12-03 11:07:04,110 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\ZXWork\Richard-Public\2021\2021NET6\1112NET6\Zhaoxi.NET6.Project\WebApp\
+2021-12-03 11:07:07,118 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - WebApp.Controllers.FirstController  被构造。。。
+2021-12-03 11:07:07,231 [.NET ThreadPool Worker] INFO  WebApp.Utility.Filters.CustomLogActionFilterAttribute - 参数：[]
+2021-12-03 11:07:07,240 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - Index 被执行。。。
+2021-12-03 11:07:07,317 [.NET ThreadPool Worker] INFO  WebApp.Utility.Filters.CustomLogActionFilterAttribute - 执行结果：{"StatusCode":null,"ViewName":null,"Model":null,"ViewData":{"date":"2021/12/3 11:07:07"},"TempData":{},"ViewEngine":null,"ContentType":null}
+2021-12-03 11:09:14,540 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5198
+2021-12-03 11:09:14,670 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-12-03 11:09:14,675 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-12-03 11:09:14,678 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\ZXWork\Richard-Public\2021\2021NET6\1112NET6\Zhaoxi.NET6.Project\WebApp\
+2021-12-03 11:09:18,363 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - WebApp.Controllers.FirstController  被构造。。。
+2021-12-03 11:09:18,494 [.NET ThreadPool Worker] INFO  WebApp.Utility.Filters.CustomLogActionFilterAttribute - 参数：[]
+2021-12-03 11:09:18,505 [.NET ThreadPool Worker] INFO  WebApp.Controllers.FirstController - Index 被执行。。。
+2021-12-03 11:09:18,578 [.NET ThreadPool Worker] INFO  WebApp.Utility.Filters.CustomLogActionFilterAttribute - 执行结果：{"StatusCode":null,"ViewName":null,"Model":null,"ViewData":{"date":"2021/12/3 11:09:18"},"TempData":{},"ViewEngine":null,"ContentType":null}

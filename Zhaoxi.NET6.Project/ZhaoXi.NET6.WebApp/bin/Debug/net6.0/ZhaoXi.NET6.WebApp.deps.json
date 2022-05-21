@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZhaoXi.NET6.WebApp/1.0.0": {
+        "runtime": {
+          "ZhaoXi.NET6.WebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZhaoXi.NET6.WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
